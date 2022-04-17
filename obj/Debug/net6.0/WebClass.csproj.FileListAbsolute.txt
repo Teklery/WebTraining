@@ -1,0 +1,15 @@
+C:\Users\Ikem\Documents\WebClass\bin\Debug\net6.0\WebClass.exe
+C:\Users\Ikem\Documents\WebClass\bin\Debug\net6.0\WebClass.deps.json
+C:\Users\Ikem\Documents\WebClass\bin\Debug\net6.0\WebClass.runtimeconfig.json
+C:\Users\Ikem\Documents\WebClass\bin\Debug\net6.0\WebClass.dll
+C:\Users\Ikem\Documents\WebClass\bin\Debug\net6.0\WebClass.pdb
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.csproj.AssemblyReference.cache
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.AssemblyInfoInputs.cache
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.AssemblyInfo.cs
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.csproj.CoreCompileInputs.cache
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.dll
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\refint\WebClass.dll
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.pdb
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\WebClass.genruntimeconfig.cache
+C:\Users\Ikem\Documents\WebClass\obj\Debug\net6.0\ref\WebClass.dll
