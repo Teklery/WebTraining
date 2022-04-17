@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
+// I am just playing around here. Really wanna knnow the difference betweeen git pull and push
+
 namespace HelloWorld
 {
     class Program
